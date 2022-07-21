@@ -1,0 +1,3 @@
+let l:bm_file_version = 1
+let l:bm_sessions = {'default': {'/Users/michael/Projects/super-smash-bros-app/src/App.js': [{'sign_idx': 9500, 'line_nr': 27, 'content': '      <div className="fighters-grid">'},],}}
+let l:bm_current_session = 'default'
