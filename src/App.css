@@ -27,8 +27,8 @@
 
 .fighter-name {
   position: absolute;
-  bottom: 0;
   right: 0;
+  bottom: -25%;
   font-size: 1.8em;
   color: #fff;
   text-shadow: 2px 2px #000;
